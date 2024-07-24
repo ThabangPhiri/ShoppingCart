@@ -1,0 +1,19 @@
+.ShoppingCart{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.golfShirts{
+    font: 400;
+    font-size: x-large;
+    font-style: italic;
+}
+.tshirtSizes{
+    font: 400;
+    font-size: x-large;
+    font-style: italic;
+    flex: none;
+    align-items: center;
+    justify-content: center;
+}
